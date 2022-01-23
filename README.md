@@ -1,7 +1,4 @@
 ### Hi there 👋
- <p align="center">
-<img src="src/AVATAR.png" alt="Avatar" width="120px">
-</p>
 
 - I'm YASH KUMAR 🧒🏻 (Same on right) I write code </> on Visual Studio Code <img src="src/vs.png" width="25">.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumar2002&theme=radical" alt="Top Lang" align="right"/>
